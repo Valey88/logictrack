@@ -1,0 +1,7 @@
+{
+  "name": "LogiTrack TMS",
+  "description": "Enterprise SaaS platform for logistics, fleet management, and real-time tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
